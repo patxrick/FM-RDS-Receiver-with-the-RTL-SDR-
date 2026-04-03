@@ -1,4 +1,4 @@
-# 📻 FM RDS Receiver using RTL-SDR (Simulink Implementation)
+# 📻 FM RDS Receiver using RTL-SDR 
 
 ## 📌 Overview
 This project implements a **real-time FM Radio Data System (RDS) Receiver** using **RTL-SDR (Software Defined Radio)** and **MATLAB Simulink**. It demonstrates a complete communication chain—from RF signal acquisition to **audio output and digital data decoding**—making it a practical application of both **analog and digital modulation techniques**.
