@@ -81,3 +81,41 @@ This model is widely used for **educational and research purposes** in communica
 ## ▶️ How to Run
 1. Connect RTL-SDR device  
 2. Open the Simulink model:
+3. Set the desired FM frequency  
+4. Run the simulation  
+5. Observe:
+- Audio output  
+- Decoded RDS data  
+
+---
+
+## 📊 Output
+- Real-time FM audio signal  
+- Decoded RDS information:
+- Station name  
+- Broadcast text  
+- Signal constellation and processing plots  
+
+---
+
+## 📚 Applications
+- Software Defined Radio (SDR) systems  
+- Digital communication learning  
+- Signal processing research  
+- Wireless system prototyping  
+
+---
+
+## 👨‍💻 Author
+- Patrick Deva  
+
+---
+
+## 📜 License
+This project includes components under an open-source license.  
+Refer to `license.txt` for full details.
+
+---
+
+## ⭐ Conclusion
+This project provides a **complete end-to-end implementation of an FM RDS receiver**, combining both **analog and digital communication concepts**. It highlights the effectiveness of **SDR-based systems** for real-time signal processing and serves as a strong foundation for advanced wireless communication research.
